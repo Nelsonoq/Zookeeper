@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper1.Topics-Characters-Digits_or_not.main" target="8" />
+      <module name="Zookeeper1.Topics-Characters-Encoding_table.main" target="8" />
+      <module name="Zookeeper1.Topics-Characters-Previous_character.main" target="8" />
+      <module name="Zookeeper1.Topics-Characters-The_code_of_a_character.main" target="8" />
+      <module name="Zookeeper1.Topics-Characters-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Equality-Equality.main" target="8" />
+      <module name="Zookeeper1.Topics-Equality-The_same_object.main" target="8" />
+      <module name="Zookeeper1.Topics-Equality-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Equality-True_captain.main" target="8" />
+      <module name="Zookeeper1.Topics-If_expression-Healthy_sleep.main" target="8" />
+      <module name="Zookeeper1.Topics-If_expression-Odd_or_even.main" target="8" />
+      <module name="Zookeeper1.Topics-If_expression-Statements_about_brackets_in_if.main" target="8" />
+      <module name="Zookeeper1.Topics-If_expression-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Apple_pie.main" target="8" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Declaring_Long.main" target="8" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Desks.main" target="8" />
+      <module name="Zookeeper1.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="8" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Time_format.main" target="8" />
+      <module name="Zookeeper1.Topics-Integers_in_action-Unsigned_integers.main" target="8" />
+      <module name="Zookeeper1.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main" target="8" />
+      <module name="Zookeeper1.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="8" />
+      <module name="Zookeeper1.Topics-Introduction_to_MutableList-The_last_element_of_a_list.main" target="8" />
+      <module name="Zookeeper1.Topics-Introduction_to_MutableList-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Absolute_value.main" target="8" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Correct_statements.main" target="8" />
+      <module name="Zookeeper1.Topics-Invoking_functions-How_to_invoke_a_function.main" target="8" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Lembas.main" target="8" />
+      <module name="Zookeeper1.Topics-Invoking_functions-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Relational_operators-Check_the_value.main" target="8" />
+      <module name="Zookeeper1.Topics-Relational_operators-Check_the_value__1_.main" target="8" />
+      <module name="Zookeeper1.Topics-Relational_operators-Existing_operators.main" target="8" />
+      <module name="Zookeeper1.Topics-Relational_operators-Inbetween.main" target="8" />
+      <module name="Zookeeper1.Topics-Relational_operators-Job_offer.main" target="8" />
+      <module name="Zookeeper1.Topics-Relational_operators-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Relational_operators-When_the_result_is_true.main" target="8" />
+      <module name="Zookeeper1.Topics-Repeating_blocks-Grades.main" target="8" />
+      <module name="Zookeeper1.Topics-Repeating_blocks-Repeat_by_value.main" target="8" />
+      <module name="Zookeeper1.Topics-Repeating_blocks-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Standard_output-Correct_the_code.main" target="8" />
+      <module name="Zookeeper1.Topics-Standard_output-Print_a_triangle.main" target="8" />
+      <module name="Zookeeper1.Topics-Standard_output-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="8" />
+      <module name="Zookeeper1.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="8" />
+      <module name="Zookeeper1.Topics-String_templates-String_and_its_Int.main" target="8" />
+      <module name="Zookeeper1.Topics-String_templates-Templates_for_expressions.main" target="8" />
+      <module name="Zookeeper1.Topics-String_templates-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-String_templates-What_are_string_templates.main" target="8" />
+      <module name="Zookeeper1.Topics-Type_conversion-Converting_to_Byte.main" target="8" />
+      <module name="Zookeeper1.Topics-Type_conversion-Overflow_and_crash.main" target="8" />
+      <module name="Zookeeper1.Topics-Type_conversion-Reasons.main" target="8" />
+      <module name="Zookeeper1.Topics-Type_conversion-Sum_of_Longs.main" target="8" />
+      <module name="Zookeeper1.Topics-Type_conversion-The_superior_forces_of_the_Empire.main" target="8" />
+      <module name="Zookeeper1.Topics-Type_conversion-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-Declaring_a_mutable_variable.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-Declaring_an_immutable_variable.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-Fix_declarations.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-Swap.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-The_assignment_operator.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-The_name_of_a_variable.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-Theory.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-Very_Big_Number.main" target="8" />
+      <module name="Zookeeper1.Topics-Values_and_variables-What_is_the_value_of_a_variable.main" target="8" />
+      <module name="Zookeeper1.util.main" target="8" />
+      <module name="Zookeeper1.Zookeeper-task-build-classes-kotlin.main" target="8" />
+      <module name="Zookeeper1.Zookeeper-task-build-reports-tests.main" target="8" />
+      <module name="Zookeeper1.Zookeeper-task-build-test-results.main" target="8" />
+      <module name="Zookeeper1.Zookeeper-task-build-tmp.main" target="8" />
+      <module name="Zookeeper1.Zookeeper-task.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

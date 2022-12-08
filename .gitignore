@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Topics/Invoking functions/Lembas/out/
+/Topics/Invoking functions/Lembas/out/production/classes/
+/Topics/Standard output/Correct the code/out/
+/Topics/Standard output/Correct the code/out/production/classes/
+/Zookeeper/task/build/

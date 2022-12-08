@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: <code>n.toInt().toShort()</code>
+- text: <code>n.toInt().toByte()</code>
+- text: <code>n.toInt().tobyte()</code>
+- text: <code>n.toByte()</code>
+- text: <code>n.floatToByte()</code>
+- text: <code>toByte(n)</code>
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20147#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 18 Sep 2022 21:57:10 UTC
+record: -1
+selected_options:
+- 1
+local_check: false
